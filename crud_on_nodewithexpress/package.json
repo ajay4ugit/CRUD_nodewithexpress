@@ -1,0 +1,13 @@
+{
+  "name": "crud_on_nodewithexpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "start":"nodemon App.js"
+    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
